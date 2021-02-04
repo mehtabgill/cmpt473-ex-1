@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/msg13/Desktop/cmpt473/ex-1/googletest-template/lib/simple/Matthews.cpp
+Matthews.h
+/home/msg13/Desktop/cmpt473/ex-1/googletest-template/lib/simple/Matthews.h
+
+lib/simple/include/Matthews.h
+cstdint
+-
+
